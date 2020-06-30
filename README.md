@@ -15,3 +15,7 @@ The C++ output is seen below. It provides the approximated pi value, the actual 
 Below is an image representing what is happening. This was only done with 200001 "darts" because more darts would eventually fill the board with one color.
 
 ![](PiApproximationwith200001darts.png)
+
+Here is an animation of the "darts" being "thrown". This was only done for 2001 "darts" because of how long it takes to process the animation.
+
+![](PiApproximation.gif)
